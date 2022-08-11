@@ -5,3 +5,5 @@ where player 1 get chance to roll the dice first and roll the dice till the play
 wohever score 100 wins 🎉 the game
 
 (A javascript project to display and practice my javascript skills)
+
+https://9274sharma.github.io/pig-game/
